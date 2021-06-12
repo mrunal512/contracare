@@ -2,6 +2,5 @@
 
 
 
-##CONTRIBUTORS
-
--Mrunalini Gaikwad
+## Contributors
+- Mrunalini Gaikwad
